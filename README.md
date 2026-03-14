@@ -30,11 +30,11 @@ To run any of the scripts locally, ensure you have Python installed, then follow
 Clone the repository:
 
 ### Bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/lawson-erpdev/python-101.git
 Navigate to the directory:
 
 ### Bash
-cd repository-name
+cd python-101
 Run a script:
 
 ### Bash
