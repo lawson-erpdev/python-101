@@ -17,27 +17,27 @@ The code is organized by topic to make navigation easy:
 
 - 06_Projects/: Small-scale applications and automation scripts.
 
-##🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 - Language: Python 3.x
 
 - Environment: Visual Studio Code / PyCharm
 
 - Version Control: Git & GitHub
 
-##📝 How to Use
+## 📝 How to Use
 To run any of the scripts locally, ensure you have Python installed, then follow these steps:
 
 Clone the repository:
 
-###Bash
+### Bash
 git clone https://github.com/your-username/repository-name.git
 Navigate to the directory:
 
-###Bash
+### Bash
 cd repository-name
 Run a script:
 
-###Bash
+### Bash
 python filename.py
 📈 Learning Goals
 [ ] Master Pythonic idioms (List comprehensions, decorators, etc.)
@@ -48,5 +48,5 @@ python filename.py
 
 [ ] Build a full-scale automation tool or web scraper
 
-Author: Lawson ERP Developer
+#### Author: Lawson ERP Developer
 Feel free to reach out if you have suggestions or want to collaborate!
